@@ -2,8 +2,8 @@
 
 from datetime import datetime
 from subprocess import getoutput
-from os import environ
-from os.path import getcwd, join
+from os import environ, getcwd
+from os.path import join
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
