@@ -1,5 +1,5 @@
 # py_mailer
-Python process to retreive bash mail from /var/mail/$USER and email it to a specified email addr.
+Python process to retrieve bash mail from /var/mail/$USER and email it to a specified email addr.
 
 ## Requirements
 - Python 3+
